@@ -4,7 +4,7 @@ lock '3.4.0'
 #set :application, 'my_app_name'
 set :application, 'twighorse'
 #set :repo_url, 'git@example.com:me/my_repo.git'
-set :repo_url, 'git@github.com:brucebotes/dentaku.git'
+set :repo_url, 'git@github.com:brucebotes/fake_braintree_redirect.git'
 
 
 # Default branch is :master
