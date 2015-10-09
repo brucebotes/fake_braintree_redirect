@@ -15,3 +15,8 @@ gem "jquery-rails"
 
 # To use debugger
 # gem 'debugger'
+group :development do
+	gem "pry", :group => 'development'
+	gem 'capistrano', '~> 3.4'
+	gem 'capistrano-rails', '~> 1.1'
+end
